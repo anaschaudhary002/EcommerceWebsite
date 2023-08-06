@@ -1,0 +1,328 @@
+{
+  "maincategory": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Male",
+      "id": 1
+    },
+    {
+      "name": "Female",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Kids"
+    },
+    {
+      "name": "Others",
+      "id": 4
+    }
+  ],
+  "subcategory": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Jeans",
+      "id": 1
+    },
+    {
+      "name": "Tshirt",
+      "id": 2
+    },
+    {
+      "name": "Shirt",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Trouser"
+    }
+  ],
+  "brand": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Adidas",
+      "id": 1
+    },
+    {
+      "name": "Mufti",
+      "id": 2
+    },
+    {
+      "name": "Tommy Hilfiger",
+      "id": 3
+    },
+    {
+      "name": "Gucci",
+      "id": 4
+    },
+    {
+      "name": "Zara",
+      "id": 5
+    },
+    {
+      "name": "Nike",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Polo"
+    }
+  ],
+  "product": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Male Jeans SLim Fit",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "36",
+      "baseprice": 10000,
+      "discount": 85,
+      "finalprice": 1500,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p1.jpg",
+      "pic2": "p2.jpg",
+      "pic3": "p5.jpg",
+      "pic4": "p16.jpg",
+      "id": 1
+    },
+    {
+      "name": "Male Tshirt Adidas",
+      "maincategory": "Male",
+      "subcategory": "Tshirt",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "XL",
+      "baseprice": 5000,
+      "discount": 65,
+      "finalprice": 1750,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p3.jpg",
+      "pic2": "p51.jpg",
+      "pic3": "p52.jpg",
+      "pic4": "p10.jpg",
+      "id": 2
+    },
+    {
+      "name": "Male Jeans Tommy Hilfiger",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Tommy Hilfiger",
+      "color": "Black",
+      "size": "34",
+      "baseprice": 8700,
+      "discount": 78,
+      "finalprice": 1914,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p10.jpg",
+      "pic2": "p11.jpg",
+      "pic3": "p5.jpg",
+      "pic4": "p49.jpg",
+      "id": 3
+    },
+    {
+      "name": "Female Jeans Mufti",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "30",
+      "baseprice": 7800,
+      "discount": 78,
+      "finalprice": 1716,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p12.jpg",
+      "pic2": "p9.jpg",
+      "pic3": "p17.jpg",
+      "pic4": "p22.jpg",
+      "id": 4
+    },
+    {
+      "name": "Female Jeans Polo",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Polo",
+      "color": "Black",
+      "size": "28",
+      "baseprice": 10000,
+      "discount": 80,
+      "finalprice": 2000,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p20.jpg",
+      "pic2": "p47.jpg",
+      "pic3": "p19.jpg",
+      "pic4": "p46.jpg",
+      "id": 5
+    },
+    {
+      "name": "Female Tshirt Adidas",
+      "maincategory": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Adidas",
+      "color": "White",
+      "size": "MD",
+      "baseprice": 8500,
+      "discount": 85,
+      "finalprice": 1275,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p22.jpg",
+      "pic2": "p23.jpg",
+      "pic3": "p39.jpg",
+      "pic4": "p19.jpg",
+      "id": 6
+    },
+    {
+      "name": "Female Tshirt Mufti",
+      "maincategory": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Mufti",
+      "color": "White",
+      "size": "SM",
+      "baseprice": 8000,
+      "discount": 48,
+      "finalprice": 4160,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p19.jpg",
+      "pic2": "p9.jpg",
+      "pic3": "p6.jpg",
+      "pic4": "p28.jpg",
+      "id": 7
+    },
+    {
+      "name": "Female Shrit Nike",
+      "maincategory": "Female",
+      "subcategory": "Shirt",
+      "brand": "Nike",
+      "color": "White",
+      "size": "MD",
+      "baseprice": 9000,
+      "discount": 90,
+      "finalprice": 900,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p18.jpg",
+      "pic2": "p6.jpg",
+      "pic3": "p19.jpg",
+      "pic4": "p31.jpg",
+      "id": 8
+    },
+    {
+      "name": "Kids Jeans Mufti",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "26",
+      "baseprice": 9000,
+      "discount": 85,
+      "finalprice": 1350,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p59.jpg",
+      "pic2": "p61.jpg",
+      "pic3": "p60.jpg",
+      "pic4": "p58.jpg",
+      "id": 9
+    },
+    {
+      "name": "Kids Tshirt Tommy Hilfiger",
+      "maincategory": "Kids",
+      "subcategory": "Tshirt",
+      "brand": "Tommy Hilfiger",
+      "color": "Blue",
+      "size": "SM",
+      "baseprice": 4560,
+      "discount": 60,
+      "finalprice": 1824,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p63.jpg",
+      "pic2": "p64.jpg",
+      "pic3": "p43.jpg",
+      "pic4": "p62.jpg",
+      "id": 10
+    },
+    {
+      "id": 11,
+      "name": "Kids Jeans Nike",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Nike",
+      "color": "Blue",
+      "size": "28",
+      "baseprice": 8500,
+      "discount": 85,
+      "finalprice": 1275,
+      "stock": "Out Of Stock",
+      "description": "This is Sample Product",
+      "pic1": "p42.jpg",
+      "pic2": "p62.jpg",
+      "pic3": "p63.jpg",
+      "pic4": "p43.jpg"
+    },
+    {
+      "name": "Male Jeans Nike",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Nike",
+      "color": "Blue",
+      "size": "32",
+      "baseprice": 5000,
+      "discount": 90,
+      "finalprice": 500,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p44.jpg",
+      "pic2": "p41.jpg",
+      "pic3": "p1.jpg",
+      "pic4": "p13.jpg",
+      "id": 12
+    }
+  ],
+  "user": [
+    {
+      "id": 0
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0
+    }
+  ],
+  "newslatter": [
+    {
+      "id": 0
+    }
+  ],
+  "contact": [
+    {
+      "id": 0
+    }
+  ]
+}
